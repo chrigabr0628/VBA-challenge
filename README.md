@@ -3,22 +3,22 @@ An overview of the analysis:
 The purpose of the analysis was to identify the changes of stock volume within three years of data.
 
 
-The results: Describe the key findings from your analysis. You can include any visualizations, metrics, or insights you gained from the data.
+The results: 
 
 Based on the data, ticker 'RYU' had the greatest increase in percentage change, ticker 'RKS' had the greatest decrease in percentage change, and ticker 'ZQD' had the greatest total volume as well. 
 
 
-Methodology: Briefly explain the steps you took to analyze the data, any models you used, and any important decisions you made during the analysis.
+Methodology: 
 
 Firstly, I created a 'for loop' to loop through all three sheets of data. I created variables to retrieve the ticker symbol, yearly change, percentage change, total stock volume, greatest percentage increase, greatest percentage decrease, and greatest total volume. From there, I filled each column with its respective values and was able to determine the most and least successful years for the stock market based on the data.
 
 
-Conclusion: Summarize the main takeaways from your analysis and any recommendations you have based on your findings.
+Conclusion:
 
 Based on the data, year 2019 had the greatest increase in percentage change, in addition to the greatest decrease in percentage change and the greatest total volume as well. Despite having the greatest decrease in  percentage change, 2019 appears to have been a great year for the stock market based on these findings. 2018 appears to have been the worst year based on these findings as well.
 
 
-'Next Steps: Provide suggestions for further analysis or improvements that could be made to enhance the results.
+Next Steps: 
 
 Fix the dates and remove irrelevant data such as 'high' and 'low'.
 
